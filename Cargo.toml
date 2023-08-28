@@ -1,0 +1,10 @@
+[package]
+name = "sway2hypr"
+description = "Creates a sway-compatible IPC socket for Hyprland"
+repository = "https://github.com/siltyy/sway2hypr"
+version = "0.1.0"
+edition = "2021"
+authors = [ "silt <silt@0xC3.win>" ]
+license = "AGPL-3.0-or-later"
+
+[dependencies]
